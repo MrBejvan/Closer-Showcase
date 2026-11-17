@@ -4,7 +4,7 @@
 
 **Project status:** Interactive portfolio prototype · Full-stack application in development
 
-**[View Live Demo](https://YOUR-USERNAME.github.io/closer-showcase/)**
+**[View Live Demo](https://MrBejvan.github.io/closer-showcase/)**
 
 ## Overview
 
